@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+* { 
+    font-family: arial, hevetica, sans-serif;
+
+}
+/*Aqui é a fonte do nosso texto*/
+body{
+    background-image: linear-gradient(to left, rgb(88, 44, 114), rgb(32, 21, 37), rgb(98, 56, 117)); 
+
+}
+/*Aqui é a cor do meu texto todo*/
+main{
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+    margin: auto;
+    padding: 20px;
+    width: 500px;
+
+}
+/*é tipo um título, mas so que fica como uma anotação*/
+h2 { 
+    color: white; 
+    text-align: center;
+}
+
+p{ 
+    color: white;
+    text-align: justify;
+}
+
